@@ -1,4 +1,4 @@
-__version__ = "0.0.47"
+__version__ = "0.0.47.post1"
 
 # Re-export from Pydantic
 from pydantic import Discriminator as Discriminator
